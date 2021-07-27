@@ -1,7 +1,8 @@
 ---
 title: lorem-ipsum
 date: '2021-07-27'
-categories: []
+categories:
+  - content/data/categories/news.yaml
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
