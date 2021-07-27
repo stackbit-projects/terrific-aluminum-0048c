@@ -25,4 +25,3 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 *   some more points
 
 > Make sure to make each day count
-> by David T
