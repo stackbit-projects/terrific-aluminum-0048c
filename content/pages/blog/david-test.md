@@ -20,5 +20,9 @@ image: /images/2.png
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
+*   some more points
+
+> Make sure to make each day count
+> by David T
