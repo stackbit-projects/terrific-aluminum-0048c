@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: David's blog
 date: '2021-07-27'
 categories:
   - content/data/categories/news.yaml
