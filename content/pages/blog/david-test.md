@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: content/data/team/hanson-deck.yaml
 ---
 ## Lorem ipsum
 
